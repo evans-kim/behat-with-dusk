@@ -1,5 +1,5 @@
 # behat-with-dusk
-How to integrated Behat and Dusk simply. This way don't need Mink Extension. 
+How to integrated Behat and Dusk simply. This way doesn't need Mink Extension. 
 
 Let's install Behat and Laravel Dusk via composer.
 
